@@ -1,0 +1,11 @@
+Remote ssh
+Remote ssh
+Remote explorer
+VScode icons
+Live server
+Prettier
+Prettify Json
+Auto rename tag
+Auto close tag
+Path intellisense
+WSL
