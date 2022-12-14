@@ -1,0 +1,12 @@
+methods with changes original data
+
+1. copyWithIn
+2. fill
+3. pop 
+4. push 
+5. reverse
+6. shift
+7. unshift
+8. sort
+9. length
+10. splice
